@@ -1,0 +1,10 @@
+C:\Users\raze6\Desktop\New folder (2)\Capstone\Capstone\bin\Debug\Capstone.exe.config
+C:\Users\raze6\Desktop\New folder (2)\Capstone\Capstone\bin\Debug\Capstone.exe
+C:\Users\raze6\Desktop\New folder (2)\Capstone\Capstone\bin\Debug\Capstone.pdb
+C:\Users\raze6\Desktop\New folder (2)\Capstone\Capstone\bin\Debug\Newtonsoft.Json.dll
+C:\Users\raze6\Desktop\New folder (2)\Capstone\Capstone\bin\Debug\Newtonsoft.Json.xml
+C:\Users\raze6\Desktop\New folder (2)\Capstone\Capstone\obj\Debug\Capstone.csprojAssemblyReference.cache
+C:\Users\raze6\Desktop\New folder (2)\Capstone\Capstone\obj\Debug\Capstone.csproj.CoreCompileInputs.cache
+C:\Users\raze6\Desktop\New folder (2)\Capstone\Capstone\obj\Debug\Capstone.csproj.CopyComplete
+C:\Users\raze6\Desktop\New folder (2)\Capstone\Capstone\obj\Debug\Capstone.exe
+C:\Users\raze6\Desktop\New folder (2)\Capstone\Capstone\obj\Debug\Capstone.pdb
